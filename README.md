@@ -1,2 +1,2 @@
-# findProduct
- The web page where you can check whether the barcodes of the products you own are entered into the system correctly with the barcode scanner.
+# findProductAndCheck
+ A web application where you can check with a handheld terminal that the barcodes of the products in your company are entered into your system correctly.
