@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LKSDB">
+  <DataContextMoniker Name="/LKSDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b8cf96d7-c60b-4944-95dc-7dac70c62060" isExpanded="false" absoluteBounds="0.5, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/LKSDBDataContext/LG_120_ITEM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8d5de069-6984-499e-95af-cdffb5fa1d77" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 39.286580403645829" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc93ed0a-dded-4d51-aea6-eb02827c5717" isExpanded="false" absoluteBounds="0.5, 1, 2, 0.45">
+      <DataClassMoniker Name="/LKSDBDataContext/LG_120_UNITBARCODE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba03fbb7-97d9-4a63-b270-e417e8bba409" absoluteBounds="0.51500000000000012, 1.46, 1.9700000000000002, 4.672322591145833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
